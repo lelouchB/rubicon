@@ -13,3 +13,6 @@ Starting Development Server
 Starting the application
 
 `npm start `
+
+
+### Note: You will need to add your own MongoDB connection string to config/db.js for the application to run successfully.
